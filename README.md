@@ -1,2 +1,2 @@
 # polynomial-regression
-polynomial regression using MSE and gradient descent &amp; through normal equation
+polynomial regression using normal equation
